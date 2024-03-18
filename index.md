@@ -1,6 +1,8 @@
-# A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News
+---
+title: A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News
+---
 
-<center>Anonymous Author(s)</center>
+## Introduction
 
 We introduce _TVB-HKSL-News_, a large-vocabulary signer-dependent HKSL dataset for continuous sign language recognition (SLR) and sign language translation (SLT).
 The dataset is collected from TVB News Report with Sign Language TV program.
@@ -233,6 +235,10 @@ We have obtained baseline results on the _TVB-HKSL-News_ dataset with several po
 | <span style="white-space: nowrap;">S3D (video) [1,3]</span>     | 18.64       | 21.98        | 15.17        | 11.18        | 8.79         | 21.61        | 25.39         | 18.59         | 14.57         | 12.10         |
 | <span style="white-space: nowrap;">S3D (keypoints) [1,3]</span> | 15.65       | 18.18        | 11.58        | 8.09         | 6.22         | 16.42        | 19.93         | 13.72         | 10.41         | 8.48          |
 | <span style="white-space: nowrap;">TwoStream-SLT \[3\]</span>   | **38.12**   | **43.22**    | **33.44**    | **26.04**    | **21.00**    | **39.80**    | **44.68**     | **35.27**     | **28.29**     | **23.58**     |
+
+# Download
+
+To download the dataset, please fill in the [request form](https://cse.hkust.edu.hk/tvb-hksl-news/docs/request-form-v2.pdf) and send to us via [email](mailto:mak@cse.ust.hk). After receiving your request, we will send you the download link and password to access the dataset.
 
 # References
 
